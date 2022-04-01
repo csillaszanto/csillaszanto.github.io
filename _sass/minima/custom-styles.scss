@@ -1,0 +1,42 @@
+
+.site-title {
+  &:hover {
+    color: $site-title-color;
+    text-decoration: underline;
+  }
+}
+
+.site-sub-title {
+  @include relative-font-size(1.375);
+  font-weight: 200;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+  color: $site-title-color;
+}
+
+.site-footer {
+    padding: 10px 0;
+	background-color: $brand-color;
+}
+
+.footer-col .copy {
+	margin-top:15px;
+	color: $site-title-color;
+}
+
+.site-nav .page-link {
+	color: $site-title-color;
+}
+
+.page-content {
+	background-color: $code-background-color;
+}
+
+.social-media-list li a {
+	border: 1px solid #252525;
+}
+
+.social-links .svg-icon {
+	fill: #252525;
+}
