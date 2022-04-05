@@ -1,4 +1,7 @@
-
+/**
+ * header
+ */
+ 
 .site-title {
   &:hover {
     color: $site-title-color;
@@ -15,6 +18,14 @@
   color: $site-title-color;
 }
 
+.site-nav .page-link {
+	color: $site-title-color;
+}
+
+/**
+ * footer
+ */
+ 
 .site-footer {
     padding: 10px 0;
 	background-color: $brand-color;
@@ -25,18 +36,78 @@
 	color: $site-title-color;
 }
 
-.site-nav .page-link {
-	color: $site-title-color;
-}
+/**
+ * content
+ */
 
 .page-content {
 	background-color: $code-background-color;
 }
 
+/**
+ * tags
+ */
+ 
+.post-list code, .page-content code {
+  padding: 2px 4px;
+  margin: 4px 8px 4px 0px;
+  font-size: 0.9rem;
+  color: $brand-color;
+  background-color: $code-background-color;
+  border: none;
+  /* border-radius: 0.2rem;
+  border: 1px solid #252525; */
+}
+
+
+/**
+ * social media
+ */
+ 
 .social-media-list li a {
 	border: 1px solid #252525;
 }
 
 .social-links .svg-icon {
 	fill: #252525;
+}
+
+
+/**
+ * ebook footer
+ */
+ 
+.ebook-col-wrapper {
+}
+
+.ebook-col-txt, .ebook-col-img {
+  margin-bottom: $spacing-unit / 2;
+}
+
+@media screen and (min-width: $on-medium) {
+  .ebook-col-wrapper {
+    display: flex
+  }
+
+  .ebook-col-wrapper > * {
+	flex: 0 0 auto;
+  }
+
+  .ebook-col-txt {
+    // width: calc(100% - (#{$spacing-unit} / 2));
+	width: 300px;
+    padding: 0 ($spacing-unit / 2);
+	padding-right: $spacing-unit/ 2;
+    padding-left: 0;
+	overflow-wrap: break-word; 
+  }
+  
+  .ebook-col-img {
+    // width: calc(100% - (#{$spacing-unit} / 2));
+	// width: 400px;
+    padding: 0 ($spacing-unit / 2);
+	padding-right: 0;
+    padding-left: $spacing-unit / 2;
+  }
+  
 }
