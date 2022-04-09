@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Why colors in your data visualization matter"
-date:   2022-04-02 08:00:00 +0200
+date:   2022-04-09 13:00:00 +0200
 tags: color theory a11y 
 categories: data visualization
 comments: false
