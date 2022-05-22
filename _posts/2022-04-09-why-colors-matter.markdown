@@ -13,8 +13,8 @@ comments: false
 
 ## Exploring best practices and the theory behind
 
-{% for tag in site.tags %}
-  <code>#{{ tag[0] }}</code>{% endfor %}
+{% for tag in page.tags %}
+  <code>#{{ tag }}</code>{% endfor %}
 
 <br/>
 Is your data visualization not clear and self-explanatory enough? Does it take too much time to recognize patterns and relations?
