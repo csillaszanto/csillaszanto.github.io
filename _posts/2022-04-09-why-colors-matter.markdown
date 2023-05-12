@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title:  "Why colors in your data visualization matter"
 date:   2022-04-09 13:00:00 +0200
 tags: color theory a11y 

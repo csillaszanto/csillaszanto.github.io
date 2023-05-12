@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title:  "Que pouvons nous apprendre de M. Minard aujourd'hui?"
 date:   2022-07-12 05:00:00 +0200
 tags: history innovation

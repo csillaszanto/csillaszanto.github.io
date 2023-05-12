@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{%- assign social = site.minima.social_links -%}
+
 
 ### Who am I?
 
@@ -28,4 +28,4 @@ Spending my free time in the mountains ![snow](/assets/images/common/fa-snowflak
 ### How to contact me
 
 
-... interested in more topics or have questions on my articles? Feel free to follow me on <a href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}" target="_blank" title="{{ social.twitter | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a> or find me on  <a href="https://www.linkedin.com/in/{{ social.linkedin | cgi_escape | escape }}" target="_blank" title="{{ social.linkedin | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg></a>.
+... interested in more topics or have questions on my articles? Feel free to find me on social media (see footer of this page).
