@@ -17,13 +17,13 @@ comments: false
   <code>#{{ tag }}</code>{% endfor %}
 
 <br/>
-Est-il *important de connaître l'histoire* avant de se plonger dans les méthodes de visualisation d'aujourd'hui? Pas forcément, mais si vous vous intéressez à l'évolution, à la motivation, aux problèmes et aux défis auxquels les gens étaient confrontés auparavant, cela peut être utile. Si vous voulez connaître les noms de certaines personnes importantes, les résultats de leur travail, pourquoi pas? Cela peut s'avérer utile même pour son propre travail/son propre chemin.
+Est-il **important de connaître l'histoire** avant de se plonger dans les méthodes de visualisation d'aujourd'hui? Pas forcément, mais si vous vous intéressez à l'évolution, à la motivation, aux problèmes et aux défis auxquels les gens étaient confrontés auparavant, cela peut être utile. Si vous voulez connaître les noms de certaines personnes importantes, les résultats de leur travail, pourquoi pas? Cela peut s'avérer utile même pour son propre travail/son propre chemin.
 
-Je ne vais pas vous présenter une liste de noms, non! Je décide de choisir un nom, celui de *Charles-Joseph Minard*. Pourquoi? Parce que nous savons beaucoup de détails sur son travail, nous pouvons suivre l'évolution de ses méthodes, le perfectionnement, le raisonnement. Mais surtout, *nous pouvons toujours apprendre de lui*.
+Je ne vais pas vous présenter une liste de noms, non! Je décide de choisir un nom, celui de **Charles-Joseph Minard**. Pourquoi? Parce que nous savons beaucoup de détails sur son travail, nous pouvons suivre l'évolution de ses méthodes, le perfectionnement, le raisonnement. Mais surtout, nous pouvons toujours apprendre de lui.
 
-Quelles choses? Au cours de mes recherches, j'en ai identifié quelques-unes que je vais *partager* avec vous, une par une!
+Quelles choses? Au cours de mes recherches, j'en ai identifié quelques-unes que je vais partager avec vous, une par une!
 
-Tout d'abord, je vous donnerai quelques faits historiques, je décrirai l'environnement dans lequel il a vécu afin que vous puissiez mieux comprendre les défis de son époque. Je mentionnerai également certaines de ses œuvres les plus célèbres. Puis, je vous expliquerai les éléments qui sont toujours valables et comment vous pouvez en *bénéficier* directement.
+Tout d'abord, je vous donnerai quelques faits historiques, je décrirai l'environnement dans lequel il a vécu afin que vous puissiez mieux comprendre les défis de son époque. Je mentionnerai également certaines de ses œuvres les plus célèbres. Puis, je vous expliquerai les éléments qui sont toujours valables et comment vous pouvez en bénéficier directement.
 
 <br/>
 
@@ -39,13 +39,13 @@ En bref, un ingénieur du XIXe siècle qui, à côté de son travail, a consacr�
 
 <br/>
 
-Elle intègre pas moins de six variables, dans une simple image bidimensionnelle. Cette œuvre est le résultat d'une longue évolution, une *combinaison de carte de données et de séries de temps*. 
+Elle intègre pas moins de six variables, dans une simple image bidimensionnelle. Cette œuvre est le résultat d'une longue évolution, une **combinaison de carte de données et de séries de temps**. 
 Il a réussi à augmenter/améliorer le pouvoir explicatif de son image en ajoutant une dimension spatiale, de sorte que les données se déplacent à la fois dans l'espace et dans le temps.
 En outre, il a présenté les informations de manière esthétique.
 
 Minard a **grandi pendant la période la plus intense de la «révolution industrielle» au début du XIXe siècle**. Il s'agissait sans aucun doute d'un **environnement inspirant**. De nombreuses innovations et réalisations datent de cette époque. Et il a travaillé pendant et après cette période comme ingénieur à l'École nationale des Ponts et Chaussées (responsable de la conception et de la construction de ponts, de canaux et d'infrastructures).
 
-**Son entourage** était donc sans aucun doute susceptible aux idées et solutions nouvelles. Il facilitait son travail sur le terrain et ses discussions par des dessins techniques, des graphiques statistiques et des cartes. Minard explique, qu'avec l'extension de la recherche statistique, on voulait présenter les résultats sous une forme plus utile et plus compréhensible. On a donc introduit différentes représentations. Ces *«outils de réflexion»* permettaient d'exprimer des idées complexes ou de présenter des faits de manière claire, précise et efficace.
+**Son entourage** était donc sans aucun doute susceptible aux idées et solutions nouvelles. Il facilitait son travail sur le terrain et ses discussions par des dessins techniques, des graphiques statistiques et des cartes. Minard explique, qu'avec l'extension de la recherche statistique, on voulait présenter les résultats sous une forme plus utile et plus compréhensible. On a donc introduit différentes représentations. Ces **«outils de réflexion»** permettaient d'exprimer des idées complexes ou de présenter des faits de manière claire, précise et efficace.
 
 Minard ajoute:
 
@@ -61,7 +61,7 @@ Son travail et son entourage l'ont probablement inspiré à en faire encore plus
 ### <strong>L'évolution de ses visualisations</strong>
 
 <br/>
-En 1826, il publie son œuvre *«Tableau chronologique de l'entretien du Pavé de Paris»*. 
+En 1826, il publie son œuvre **«Tableau chronologique de l'entretien du Pavé de Paris»**. 
 
 <br/>
 ![Tableau chronologique de l'entretien du Pavé de Paris](/assets/images/history/Minard_Projet_de_canal.jpeg "Tableau chronologique de l'entretien du Pavé de Paris")
@@ -70,9 +70,9 @@ En 1826, il publie son œuvre *«Tableau chronologique de l'entretien du Pavé d
 
 <br/>
 
-Ici, *il utilise encore le même système que ces prédécesseurs* précédents. Et il constate que cette représentation est choisie pour de nombreux cas d'application.
+Ici, il utilise encore le même système que ces prédécesseurs précédents. Et il constate que cette représentation est choisie pour de nombreux cas d'application.
 
-Il continue ensuite à écrire sans utiliser de graphiques. Il commence à s'intéresser à *la construction du système ferroviaire* et publie le résultat de ses recherches dans <a href="https://heritage.ecoledesponts.fr/ark:/12148/bpt6k10924472" title="Leçons Faites sur les Chemins de Fer à l'École des Ponts et Chaussées en 1833-1834">Leçons Faites sur les Chemins de Fer à l'École des Ponts et Chaussées en 1833-1834</a>, qui ne contient encore aucune visualisation, mais uniquement des tableaux et des dessins techniques.
+Il continue ensuite à écrire sans utiliser de graphiques. Il commence à s'intéresser à **la construction du système ferroviaire** et publie le résultat de ses recherches dans <a href="https://heritage.ecoledesponts.fr/ark:/12148/bpt6k10924472" title="Leçons Faites sur les Chemins de Fer à l'École des Ponts et Chaussées en 1833-1834">Leçons Faites sur les Chemins de Fer à l'École des Ponts et Chaussées en 1833-1834</a>, qui ne contient encore aucune visualisation, mais uniquement des tableaux et des dessins techniques.
 
 Un peu plus tard, il se lance dans la visualisation. Il se plonge dans la planification de trajet des voies. Il transforme les données statistiques sur le trafic et fréquantation des routes en graphiques afin de pouvoir mieux les analyser.
 
@@ -93,9 +93,9 @@ Il ajoute:
 
 En observant le graphique, on pouvait déduire que les cours partiels gagnent en importance.
 
-Il a publié son *«Tableau figuratif du mouvement commercial du Canal du Centre en 1844»* l'année suivante, dans le même système, mais colorié.
+Il a publié son **«Tableau figuratif du mouvement commercial du Canal du Centre en 1844»** l'année suivante, dans le même système, mais colorié.
 
-Peu de temps après, en mars 1845, Minard publie *sa première carte de flux* lors de la discussion du projet de chemin de fer Dijon-Mulhouse. 
+Peu de temps après, en mars 1845, Minard publie **sa première carte de flux** lors de la discussion du projet de chemin de fer Dijon-Mulhouse. 
 
 <br/>
 ![Carte de la Circulation des Voyageurs par Voitures Publiques sur les routes de la contrée où sera placé le Chemin de Fer de Dijon à Mulhouse, 1845](/assets/images/history/Minard_Cartes_et_tableaux_statistiques_p7.jpeg "Carte de la Circulation des Voyageurs par Voitures Publiques sur les routes de la contrée où sera placé le Chemin de Fer de Dijon à Mulhouse, 1845")
@@ -104,15 +104,15 @@ Peu de temps après, en mars 1845, Minard publie *sa première carte de flux* lo
 
 <br/>
 
-Il appelle ce type de représentation *«carte figurative»*. Elles ont pour but de communiquer les mouvements des personnes, des marchandises, etc. sur une carte géographique, ajoutant ainsi une nouvelle variable, celle de la position géographique.
+Il appelle ce type de représentation **«carte figurative»**. Elles ont pour but de communiquer les mouvements des personnes, des marchandises, etc. sur une carte géographique, ajoutant ainsi une nouvelle variable, celle de la position géographique.
 
 > « Les voyageurs circulant sur les routes [...] y étaient représentés par des zones teintées qui suivent les contours de ces routes et qui ont des largeurs proportionelles aux nombre de voyageurs qui y passaient dans les voitures publiques »
 
-Il a fallu *convaincre les autorités* de la nouvelle trace:
+Il a fallu convaincre les autorités de la nouvelle trace:
 
 > « Ma carte lithographiée [...] distribuée […] **éclaira la discussion** »
 
-Car, d'un seul coup d'œil, il était possible de comparer les différentes routes et leur trafic respectif dans cette zone. Et c'est exactement l'objectif qu'il a poursuivi au cours des années suivantes, en les *améliorant* et en les *enrichissant* encore davantage. 
+Car, d'un seul coup d'œil, il était possible de comparer les différentes routes et leur trafic respectif dans cette zone. Et c'est exactement l'objectif qu'il a poursuivi au cours des années suivantes, en les **améliorant** et en les **enrichissant** encore davantage. 
 
 Par la suite, de nombreux ingénieurs ont imité son système pour leurs projets ferroviaires.
 
@@ -120,9 +120,9 @@ Minard a indiqué qu'il est difficile de représenter des données qui n'ont auc
 
 > « J’ai entendu dire, à l’occasion de mes cartes, qu’il y avait bien longtemps qu’on avait fait des cartes parlantes; **non-seulement mes cartes parlent, mais, de plus, elles comptent, elles calculent par l’œil; c’est là le point capital; c’est là le perfectionnement que j’ai introduit** dans mes cartes figuratives par la largeur des zones, et dans mes tableaux graphiques par les rectangles. »
 
-Cela signifie qu'il sait bien **se faire connaître**, qu'il est *confiant* et qu'il reste en même temps un homme qui *perfectionne soigneusement* sa technique. 
+Cela signifie qu'il sait bien **se faire connaître**, qu'il est **confiant** et qu'il reste en même temps un homme qui **perfectionne soigneusement** sa technique. 
 
-On peut découvrir deux particularités sur certaines de ses cartes de flux. D'une part, si les flux sont assez complexes, il a du mal à les dessiner côte à côte sur la carte, sans les superposer. D'autre part, il ne respecte pas strictement la géographie et sacrifie parfois la précision des points de repère. Mais la *proportionnalité* et la *précision* de ses flux et de ses données statistiques, ici, **il ne fait pas le compromis**. Il se concentre donc sur les aspects «pertinents» de ses représentations, négligeant les autres.
+On peut découvrir deux particularités sur certaines de ses cartes de flux. D'une part, si les flux sont assez complexes, il a du mal à les dessiner côte à côte sur la carte, sans les superposer. D'autre part, il ne respecte pas strictement la géographie et sacrifie parfois la précision des points de repère. Mais la **proportionnalité** et la **précision** de ses flux et de ses données statistiques, ici, **il ne fait pas le compromis**. Il se concentre donc sur les aspects «pertinents» de ses représentations, négligeant les autres.
 
 Sur certaines de ces cartes, Minard a introduit des graphiques en encadré pour replacer l'histoire qu'il cherche à raconter dans un contexte temporel ou plus global.
 
@@ -147,9 +147,9 @@ C'est d'ailleurs ce mode de représentation qu'il utilise dans sa carte des tonn
 <br/>
 En bref, les publications de Minard tournaient en grande partie autour de thèmes tels que le transport de passagers ou de marchandises sur les routes et les réseaux ferroviaires.
 
-Il planifiait ses graphiques avec *rigeur*, qui étaient basés sur des données statistiques *soigneusement* collectées. Son objectif était de transmettre des idées complexes avec *clarté et précision*. Il ne négligeait même pas les aspects esthétiques.
+Il planifiait ses graphiques avec **rigeur**, qui étaient basés sur des données statistiques **soigneusement** collectées. Son objectif était de transmettre des idées complexes avec **clarté et précision**. Il ne négligeait même pas les aspects esthétiques.
 
-À l'époque, ces graphiques étaient très bien accueillis par ses collègues ingénieurs ou avaient servi d' *«outils de réflexion»*. Ils ont même été envoyés à des membres de l'administration française.
+À l'époque, ces graphiques étaient très bien accueillis par ses collègues ingénieurs ou avaient servi d' «outils de réflexion». Ils ont même été envoyés à des membres de l'administration française.
 
 Sa méthodologie a trouvé des successeurs et ses principes sont toujours valables aujourd'hui.
 
@@ -163,7 +163,7 @@ Dans le texte, j'ai déjà surligné certains points qui, selon moi, ont été d
 <br/>
 **1. Trouver un environnement inspirant**
 
-Minard a grandi pendant la période la plus intense de la *«révolution industrielle»*. Il a travaillé comme ingénieur pendant *«l'âge d'or»* des graphiques statistiques. Son environnement était sans aucun doute réceptif aux nouvelles idées et solutions. 
+Minard a grandi pendant la période la plus intense de la **«révolution industrielle»**. Il a travaillé comme ingénieur pendant **«l'âge d'or»** des graphiques statistiques. Son environnement était sans aucun doute réceptif aux nouvelles idées et solutions. 
 
 C'est pourquoi son entourage l'a inspiré à investir encore plus d'énergie dans ses innovations. Même après sa retraite, il a continué à travailler.
 
@@ -172,18 +172,18 @@ C'est pourquoi son entourage l'a inspiré à investir encore plus d'énergie dan
 <br/>
 **2. Préciser votre centre d'intérêt**
 
-De nos jours, nous sommes facilement *submergés* par toutes les technologies disponibles et en évolution. Si nous essayons d'apprendre tous les frameworks ou bibliothèques disponibles sur le marché, nous nous rendons très vite compte que c'est *impossible*.
+De nos jours, nous sommes facilement submergés par toutes les technologies disponibles et en évolution. Si nous essayons d'apprendre tous les frameworks ou bibliothèques disponibles sur le marché, nous nous rendons très vite compte que c'est impossible.
 
-Minard *s'est rendu compte de l'importance croissante de la visualisation des données «L'illustration envahit tout»*. Il a trouvé un domaine prometteur dans lequel il pouvait démontrer son talent, introduire de nouvelles méthodes et les améliorer jour après jour. Tout en travaillant comme ingénieur, il a utilisé la visualisation de données et a *«concentré» son énergie sur ce domaine particulier*.
+Minard s'est rendu compte de l'importance croissante de la visualisation des données **«L'illustration envahit tout»**. Il a trouvé un domaine prometteur dans lequel il pouvait démontrer son talent, introduire de nouvelles méthodes et les améliorer jour après jour. Tout en travaillant comme ingénieur, il a utilisé la visualisation de données et a «concentré» son énergie sur ce domaine particulier.
 
 &#10148; Ainsi, plutôt que d'apprendre toutes les technologies, essayez de vous **concentrer sur un domaine spécifique** qui vous intéresse particulièrement. **Approfondissez** et **améliorez** vos connaissances et appliquez vos compétences dans ce domaine.
 
 <br/>
 **3. Partager ce que vous savez**
 
-Nous, les développeurs de logiciels, avons tendance à oublier l'importance de la *communication*. Lorsque nous corrigeons un bug ou trouvons une solution à un problème, nous pensons rarement à partager notre expérience avec un public plus large.
+Nous, les développeurs de logiciels, avons tendance à oublier l'importance de la **communication**. Lorsque nous corrigeons un bug ou trouvons une solution à un problème, nous pensons rarement à partager notre expérience avec un public plus large.
 
-Minard a suivi et *utilisé les canaux de communication disponibles* pour *publier* ses idées et ses résultats. C'est ainsi qu'il a pu établir la **«confiance»** et devenir une personnalité précieuse et très appréciée de son époque.
+Minard a suivi et utilisé les canaux de communication disponibles pour **publier** ses idées et ses résultats. C'est ainsi qu'il a pu établir la **«confiance»** et devenir une personnalité précieuse et très appréciée de son époque.
 
 &#10148; Même si ce n'est pas notre principal domaine d'intérêt, **la communication et le partage d'informations sont fondamentaux**. Sinon, comment votre patron, vos collègues ou d'autres personnes pourraient-ils savoir ce que vous savez ou connaître vos résultats ? **Notre expérience pourrait également être utile à d'autres** développeurs de la communauté pour résoudre leurs problèmes quotidiens.
 
