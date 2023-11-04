@@ -33,9 +33,9 @@ This article will give you practical tips on how to incorporate accessibility re
 
 There is a wide range of different disabilities or impairments. Blindness, visual impairment, motoric or cognitive difficulties are a few examples. Neurodivergence also poses various challenges that we should address in a good visualization.
 
-In this article, I'm focusing on the visual experience of *people with visual impairement*.
+In this article, I'm focusing on the visual experience of **people with visual impairement**.
 
-To make a usable data experience for them, your graphics have to pass various visual compliance tests. But to make that experience actually *useful*, is even more challenging. Here are a few tips on how solve it.
+To make a usable data experience for them, your graphics have to pass various visual compliance tests. But to make that experience actually useful, is even more challenging. Here are a few tips on how solve it.
 
 <br/>
 
@@ -43,30 +43,31 @@ To make a usable data experience for them, your graphics have to pass various vi
 
 Many questions revolve around colors and their combinations. And how to make sure that there is enough contrast between elements such as a text and its backround. 
 
-On a chart or a map, you can use more *vivid* fill *colors to emphasize* parts of particular interest. Applying a darker border between areas, filling less important parts with a lighter color strenghtens the effect. It drives your attention to where emphasis should be. A balanced use of *fills and borders* can improve visual search.
+On a chart or a map, you can use more vivid fill colors to emphasize parts of particular interest. Applying a darker border between areas, filling less important parts with a lighter color strenghtens the effect. It drives your attention to where emphasis should be. A balanced use of fills and borders can improve visual search.
 
-<img src="/assets/images/a11y/hc_power_consumption.png" alt="Swiss Power Consumption in 2022" width="80%" height="80%" title="Swiss Power Consumption in 2022">
+<img src="/assets/images/a11y/swiss_power_consumption_1.png" alt="Swiss Power Consumption in 2022, selected final series" width="48%" height="48%" title="Swiss Power Consumption in 2022">
+<img src="/assets/images/a11y/swiss_power_consumption_2.png" alt="Swiss Power Consumption in 2022, selected country series" width="48%" height="48%" title="Swiss Power Consumption in 2022">
 
 <figcaption><a href="https://www.highcharts.com" title="Highcharts Example with Swiss Opendata">(Source: Highcharts, Data Source: Opendata, Swiss Federal Office of Energy)</a></figcaption>
 
 <br/>
-Another way to improve focus is to use low contrast where it doesn't matter and apply *higher contrast* only to emphasize importance of elements. This contrast can be achieved by using complementary colors or enough luminance differences.
+Another way to improve focus is to use low contrast where it doesn't matter and apply **higher contrast** only to emphasize importance of elements. This contrast can be achieved by using complementary colors or enough luminance differences.
 
-For text elements, there should be enough *contrast between text and its background*, so that they remain lisible. To meet <em>accessibility</em> standards, you can check for your <em>contrast ratio</em> by using a color contrast tool. 
+For text elements, there should be enough **contrast between text and its background**, so that they remain lisible. To meet <em>accessibility</em> standards, you can check for your <em>contrast ratio</em> by using a color contrast tool. 
 
-There are also many tools that help you to generate *sequential*, *diverging* or *qualitative* color palettes. Several of them offer to check for the most common color deficiencies. They generate *harmonic* colors that work well together and keep the global appearance calm and cleaned up. This is also beneficial for the rest of your audience.
+There are also many tools that help you to generate **sequential**, **diverging** or **qualitative** color palettes. Several of them offer to check for the most common color deficiencies. They generate harmonic colors that work well together and keep the global appearance calm and cleaned up. This is also beneficial for the rest of your audience.
 
 I have listed such essential tools in my previous articles about colors. See «Why colors in your data visualization matter», «Color fundamentals revisited». Feel free to try them out.
 
-Another method is to apply color for important data only and *grey* for less important elements. Grey is great to show non-selected, non-relevant parts or to make your visualization appear more harmonic. **Use as few colours as possible, but if needed, always check your palette for color deficiency**.
+Another method is to apply color for important data only and **grey** for less important elements. Grey is great to show non-selected, non-relevant parts or to make your visualization appear more harmonic. **Use as few colours as possible**, but if needed, always check your palette for color deficiency.
 
-For further clean up of your visualization, have a critical look at it and consider *what data can be discarded* safely. Data that brings no extra value to the context or is confusing or not needed at that level of detail. Always display an accessible complexity of details. This is also beneficial for all other people.
+For further clean up of your visualization, have a critical look at it and consider what data can be discarded safely. Data that brings no extra value to the context or is confusing or not needed at that level of detail. Always display an accessible complexity of details. This is also beneficial for all other people.
 
 <br/>
 
 **Use a clear navigation**
 
-Where it makes sense, define alternative keys or shortcuts in your charts or graphs. This is also important for a good *screen reader experience*. Always orient your users within the dataset. Where they are, where they came from and their next possible steps. The principle of a clear navigation is not only valid for people using assistive technologies. It is also beneficial for people without any vision deficiencies. Having a good overview, a clear navigation can speed up the user's work massively.
+Where it makes sense, define alternative keys or shortcuts in your charts or graphs. This is also important for a good screen reader experience. Always orient your users within the dataset. Where they are, where they came from and their next possible steps. The principle of a clear navigation is not only valid for people using assistive technologies. It is also beneficial for people without any vision deficiencies. Having a good overview, a clear navigation can speed up the user's work massively.
 
 Navigation is possible even within the chart itself. If your chosen chart library supports, you can navigate between data points and data series intuitively using the arrow keys.
 
@@ -91,7 +92,7 @@ Sonification can be much more visceral than visualization alone. It can be an op
 <br/>
 **Consider accessibility first to get the best possible design**
 
-It is much easier to meet compliance when you try to *incorporate that work from the beginning*. It also allows to produce more useful graphics. That is beneficial for everyone. Trying to retrofit those requirements to existing charts is much more painful.
+It is much easier to meet compliance when you try to incorporate that work from the beginning. It also allows to produce more useful graphics. That is beneficial for everyone. Trying to retrofit those requirements to existing charts is much more painful.
 
 Thus, first think about the use case, what the visualization should do, how it should behave in different scenarios. Formulate those expectations as specifications (i.e. test cases in software engineering). You can even think of accessibility requirements as test cases for visualizations. If you have this in mind from the beginning, it will result in a more clear and usable design. You also sort out possible issues that might arise later.
 
@@ -117,6 +118,6 @@ Typical excuses sound like:
 - we have deadlines, there is no time left for this
 - we don't have the expertise
 
-They have one thing in common: it is all about *we* and *me*. Now it is time to change that perspective from *me* to *you*. So how would you approach this topic now? 
+They have one thing in common: it is all about we and me. Now it is time to change that perspective from me to you. So how would you approach this topic now? 
 
 {%- include ebook.html -%}

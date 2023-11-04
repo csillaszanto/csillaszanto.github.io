@@ -21,12 +21,12 @@ People with ADHD or autism, and other neurominorities are often referred to as d
 
 The way I see it, there is only a difference in how the human brain is wired, i.e. programmed. This is what neurotypical people see as a disorder. Because those people **don't fit into the expectations of today's society** structures. Their different way of communicating, thinking and acting are seen as disability. Instead of recognized as untapped potential.
 
-In a mathematical sense, one could say that around 80% of people are "neurotypical" or "normal", and the rest is divergent. That is, we have a large number of similar values, and a few **outliers**. Neurotypical people are closer to average. Neurodivergent people stand out with some sort of hidden intellectual capability.
+In a mathematical sense, one could say that around 80% of people are "neurotypical" or "normal", and the rest is divergent. That is, we have a large number of similar values, and a number of **outliers**. Neurotypical people are closer to average. Neurodivergent people stand out with some sort of hidden intellectual capability.
 
 At the end, it is only a question of perspective and the choice of criteria how we "group" individuals. As is still usual today, outliers are regarded with some skepsis and distance.
 
 <br/>
-If you wish to reduce that distance, and talk to ALL those 15-20% of population, then I encourage you to continue reading. I have some tips for you here on how to make your visualizations more appealing for them.
+If you wish to talk to all those 15-20% of population, then I encourage you to continue reading. I list some tips for you here on how to make your visualizations more appealing for them.
 
 So, what are the specific challenges that we should address in a good visualization?
 
@@ -92,7 +92,7 @@ Typical examples that are generally considered good are Arial, Verdana, Tahoma o
 	</div>
 </div>
 
-OpenDyslexic and Dyslexie are fonts designed specifically for people with dyslexia.
+OpenDyslexic and Dyslexie are fonts designed specifically for people with dyslexia. However, their effectiveness has not been scientifically proven.
 
 The [Dyslexia friendly style guide](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide "Dyslexia friendly style guide") also notes that font size should be 12-14 point or equivalent. They also recommend using **bold for emphasis** rather than underlining or italics.
 
