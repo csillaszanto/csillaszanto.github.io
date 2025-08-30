@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  "Que pouvons nous apprendre de M. Minard aujourd'hui?"
+description: "À la recherche des facteurs de success"
 date:   2022-07-12 05:00:00 +0200
 tags: history innovation
 categories: data visualization

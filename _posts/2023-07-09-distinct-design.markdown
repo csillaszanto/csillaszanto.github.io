@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  "Make the difference with the right design"
+description: "Lessons learned while planning a hiking trip"
 date:   2023-07-09 10:00:00 +0200
 tags: color theory design 
 categories: data visualization

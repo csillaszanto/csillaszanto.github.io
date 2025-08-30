@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  "Color fundamentals revisited"
+description: "Navigating thru design practices and color schemes"
 date:   2023-08-01 10:00:00 +0200
 tags: color theory design 
 categories: data visualization

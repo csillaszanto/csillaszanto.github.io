@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  "Visualizing data – une longue histoire?"
+description: "A quick journey through the centuries"
 date:   2022-05-22 13:00:00 +0200
 tags: history innovation
 categories: data visualization

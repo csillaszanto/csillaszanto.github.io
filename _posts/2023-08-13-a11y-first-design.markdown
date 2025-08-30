@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  "Better visualizations through accessibility first design"
+description: "Obstacles and challenges on your accessibility journey"
 date:   2023-08-13 16:00:00 +0200
 tags: a11y design
 categories: data visualization

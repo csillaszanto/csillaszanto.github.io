@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  "Building visualizations for neurodivergent audiences"
+description: "Breaking limits imposed by society"
 date:   2023-09-21 10:00:00 +0200
 tags: a11y design
 categories: data visualization

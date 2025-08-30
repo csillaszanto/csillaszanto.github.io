@@ -6,23 +6,16 @@ permalink: /about/
 
 
 
-### Who am I?
+### Beyond data visualization
 
-... a Java web application developer, helping professional SW engineers working on data-intensive applications to develop efficient and intuitive data visualisations so they can work on challenging projects, solving real world problems.
+This blog is dedicated to look under the hood of innovative technologies to discover, use, study, distill data, present it in different ways and build upon it. Change your perspective you think about, interact with data so you can advance your projects, your career and your life.
 
-
-### Articles
-
-Delve into the world of data visualization and data science, touching classic topics and experimenting with new ideas.
+I'm combining analytics, mathematics, natural science and data visualization to help data professionals to find the best way to transform and interact with data so they can work on challenging projects, solving real world problems.
 
 
-### Interests
+### Articles / Interests
 
-Inspiring AI and visualization projects, engagement in SW communities...
-
-... accessibility aspects in both data visualizations and web frontends.
-
-Spending my free time in the mountains ![snow](/assets/images/common/fa-snowflake.png "Snow"). Apart from programming languages, speaking natural languages Hungarian, German, French and English.
+Delve into the world of data visualization and data science, touching classic topics and experimenting with new ideas, revealing accessibility aspects in data visualizations <i class="fa-solid fa-universal-access"></i>
 
 
 ### How to contact me
