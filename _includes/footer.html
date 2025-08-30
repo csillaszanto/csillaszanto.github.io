@@ -1,18 +1,22 @@
-<footer class="site-footer h-card">
+<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
 
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-		<p class="post-meta copy">
-			&copy; 2025 {{ site.author.name | escape }}&nbsp;&nbsp;&nbsp;&#9679;&nbsp;&nbsp;&nbsp;All Rights Reserved
-		</p>
-      </div>
-      <div class="footer-col">
-        <div class="social-links">
-			{%- include social.html -%}
-		</div>
-      </div>
+<footer class="site-footer h-card">
+    <data class="u-url" value="{{ '/' | relative_url }}"></data>
+
+    <div class="wrapper">
+
+        <div class="footer-col-wrapper">
+            <div class="footer-col">
+                <p class="post-meta copy">
+                    &copy; 2025 {{ site.author.name | escape }}&nbsp;&nbsp;&nbsp;&#9679;&nbsp;&nbsp;&nbsp;All Rights Reserved
+                </p>
+            </div>
+            <div class="footer-col">
+                <div class="social-links">
+                    {%- include social.html -%}
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
 
 </footer>
