@@ -55,8 +55,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-# header_pages:
-#   - about.md
+header_pages:
+  - about.markdown
 #   - portfolio.md
 
 # show_excerpts: true

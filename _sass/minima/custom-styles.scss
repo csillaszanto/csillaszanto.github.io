@@ -18,7 +18,7 @@
   color: $site-title-color;
 }
 
-.site-nav .page-link {
+.site-nav .page-link, a.page-link {
 	color: $site-title-color;
 }
 
@@ -82,6 +82,9 @@
   color: #252525 !important;
 }
 
+.social-links > p, .social-links > ul {
+  float: left !important;
+}
 
 /**
  * ebook footer
