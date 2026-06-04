@@ -8,7 +8,7 @@ permalink: /legal/privacy
 
 # Datenschutzerklärung
 
-Version vom 12.9.2025
+Version vom 4.6.2026
 
 In dieser Datenschutzerklärung erläutern wir, Csilla Szántó (nachfolgend **Csilla Szántó**, **wir** oder **uns**), wie wir Personendaten erheben und sonst bearbeiten. Das ist keine abschliessende Beschreibung; allenfalls regeln andere Datenschutzerklärungen spezifische Sachverhalte. Unter Personendaten werden alle Angaben verstanden, die sich auf eine bestimmte oder bestimmbare Person beziehen.
 
@@ -45,7 +45,7 @@ alle gemeinsam **Empfänger**.
 Diese Empfänger können irgendwo auf der Erde sein. Sie müssen insbesondere mit der Übermittlung Ihrer Daten in andere Länder Europas und den USA rechnen, wo sich die von uns benutzten Dienstleister befinden:
 
 - Hosting Dienstleister **GitHub Pages** (USA, [https://github.com](https://github.com))
-- Newsletter Versand und Verwaltung **MailChimp**, **Encharge** (USA, [https://mailchimp.com](https://mailchimp.com), [https://encharge.io](https://encharge.io))
+- Newsletter Versand und Verwaltung **Encharge** [https://encharge.io](https://encharge.io))
 
 Befindet sich ein Empfänger in einem Land ohne angemessenen gesetzlichen Datenschutz, verpflichten wir den Empfänger vertraglich zur Einhaltung des anwendbaren Datenschutzes (dazu verwenden wir die revidierten Standardvertragsklauseln der Europäischen Kommission, die hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj? abrufbar sind), soweit er nicht bereits einem gesetzlich anerkannten Regelwerk zur Sicherstellung des Datenschutzes unterliegt und wir uns nicht auf eine Ausnahmebestimmung stützen können. Eine Ausnahme kann namentlich bei Rechtsverfahren im Ausland gelten, aber auch in Fällen überwiegender öffentlicher Interessen oder wenn eine Vertragsabwicklung eine solche Bekanntgabe erfordert, wenn Sie eingewilligt haben oder wenn es sich um von Ihnen allgemein zugänglich gemachte Daten handelt, deren Bearbeitung Sie nicht widersprochen haben.
 
@@ -75,7 +75,7 @@ Wir können diese Datenschutzerklärung jederzeit ohne Vorankündigung anpassen.
 
 # Data Protection Statement
 
-Version effective as of 12.9.2025
+Version effective as of 4.6.2026
 
 With this Data Protection Statement we, Csilla Szántó (hereinafter **Csilla Szántó**, **we** or **us**), describe how we collect and further process personal data. This Data Protection Statement is not necessarily a comprehensive description of our data processing. It is possible that other data protection statements are applicable to specific circumstances.
 
@@ -114,7 +114,7 @@ together **Recipients**.
 Recipients may be located in any country worldwide. In particular, you must anticipate your data to be transmitted to other countries in Europe and the USA where our service providers are located:
 
 - Hosting service provider **GitHub Pages** (USA, [https://github.com](https://github.com))
-- Newsletter distribution and management **MailChimp**, **Encharge** (USA, [https://mailchimp.com](https://mailchimp.com), [https://encharge.io](https://encharge.io))
+- Newsletter distribution and management **Encharge** [https://encharge.io](https://encharge.io))
 
 If a recipient is located in a country without adequate statutory data protection, we require the recipient to undertake to comply with data protection (for this purpose, we use the revised European Commission’s standard contractual clauses, which can be accessed here: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?), unless the recipient is subject to a legally accepted set of rules to ensure data protection and unless we cannot rely on an exception. An exception may apply for example in case of legal proceedings abroad, but also in cases of overriding public interest or if the performance of a contract requires disclosure, if you have consented or if data has been made available generally by you and you have not objected against the processing.
 
